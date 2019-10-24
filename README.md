@@ -1,0 +1,2 @@
+# ManjaroPolybar
+Manjaro Polybar config
